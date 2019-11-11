@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is some content
+=======
+this is a random file
+>>>>>>> f4ea853c87dcea1fd5ea9540d59179d0315f4461
 
